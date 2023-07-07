@@ -18,6 +18,7 @@
 - MULLS
 - iscloam
 - floam
+- M-LOAM
 
 ### Sensor Fusion
 - LIO-SAM
