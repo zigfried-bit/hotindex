@@ -19,6 +19,7 @@
 - iscloam
 - floam
 - M-LOAM
+- hdl_graph_slam
 
 ### Sensor Fusion
 - LIO-SAM
